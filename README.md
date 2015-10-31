@@ -16,7 +16,7 @@ git clone git@github.com:bmpozo/campusciff.git
 
 - Captura de pantalla de la creacion de privado.tx y la carpeta privada
 
-!(https://github.com/bmpozo/campusciff/blob/master/imagenesgit/2_4-a.JPG)
+![imagen2.4](https://github.com/bmpozo/campusciff/blob/master/imagenesgit/2_4-a.JPG)
 
 - Captura de pantalla .gitignore
 
