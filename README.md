@@ -116,7 +116,7 @@ git clone git@github.com:bmpozo/campusciff.git
 ![imagen2.17.b](https://github.com/bmpozo/campusciff/blob/master/imagenesgit/2_17-b.JPG)
 ![imagen2.17.c](https://github.com/bmpozo/campusciff/blob/master/imagenesgit/2_17-c.JPG)
 
-- Repositorio de Juan Ramon|https
+- Repositorio de Juan Ramon
 
 ![imagen2.17.d](https://github.com/bmpozo/campusciff/blob/master/imagenesgit/2_17-d.JPG)
 ![imagen2.17.e](https://github.com/bmpozo/campusciff/blob/master/imagenesgit/2_17-e.JPG)
